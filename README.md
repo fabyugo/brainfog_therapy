@@ -1,2 +1,2 @@
-# brainfog_therapy
+# Brainfog_therapy
 
